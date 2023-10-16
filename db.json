@@ -1,0 +1,704 @@
+{
+  "projects": {
+    "lastProject": 1,
+    "entries": [
+      {
+        "id": 1,
+        "title": "Газоснабжение Сыктывкарского промузла",
+        "lastEdit": "2023-03-07"
+      },
+      {
+        "id": 2,
+        "title": "Проект 2",
+        "lastEdit": "2023-03-09"
+      },
+      {
+        "id": 3,
+        "title": "Проект 3",
+        "lastEdit": "2023-03-09"
+      }
+    ]
+  },
+  "overview": [
+    {
+      "id": 1,
+      "main": {
+        "project": {
+          "projectID": "2002573768878",
+          "projectTitle": "Газоснабжение Сыктывкарского промузла",
+          "technicalSpecifications": "Г-Д, КМ-114,26",
+          "projectStart": "2018-12-27",
+          "projectEnd": "2026-12-25",
+          "region": "Республика Коми",
+          "category": 0,
+          "investProgram": 0,
+          "projectCost": 8349.604,
+          "contractualScheme": "АД"
+        },
+        "comment": "",
+        "constructionPermit": {
+          "status": 0,
+          "permitNumber": "3453425234",
+          "plannedDate": "2023-01-13",
+          "receivedDate": "2023-01-13"
+        },
+        "power": {
+          "amount": 200,
+          "onFirstMonth": 200,
+          "onSecondMonth": 200
+        },
+        "GPR": {
+          "status": 0,
+          "identifier": "3453425234",
+          "date": "2023-01-13"
+        },
+        "PNR": {
+          "status": 0,
+          "identifier": "3453425234",
+          "date": "2023-01-13"
+        },
+        "report644": {
+          "status": 0,
+          "date": "2023-01-13"
+        },
+        "reportDepartment": {
+          "status": 0,
+          "date": "2023-01-13"
+        },
+        "reportBuRg": {
+          "status": 0,
+          "date": "2023-01-13"
+        },
+        "launchPermission": 0
+      },
+      "networkSchedule": {
+        "enabled": true,
+        "version": 1,
+        "identifier": "I2002573",
+        "statusDate": "2023-01-21",
+        "reviewStatus": 0,
+        "responsible": [
+          {
+            "id": 1,
+            "type": "Согласующий",
+            "name": "Рахматулин Т.Н.",
+            "status": 0,
+            "phone": "+79999999999",
+            "email": "mail@example.com"
+          },
+          {
+            "id": 2,
+            "type": "Согласующий 2",
+            "name": "Рахматулин Т.Н.",
+            "status": 0,
+            "phone": "+79999999999",
+            "email": "mail@example.com"
+          },
+          {
+            "id": 3,
+            "type": "ГИП",
+            "name": "Рахматулин Т.Н.",
+            "status": 0,
+            "phone": "+79999999999",
+            "email": "mail@example.com"
+          },
+          {
+            "id": 4,
+            "type": "Руководитель проекта",
+            "name": "Рахматулин Т.Н.",
+            "status": 0,
+            "phone": "+79999999999",
+            "email": "mail@example.com"
+          },
+          {
+            "id": 5,
+            "type": "Руководитель проектной команды",
+            "name": "Рахматулин Т.Н.",
+            "status": 0,
+            "phone": "+79999999999",
+            "email": "mail@example.com"
+          }
+        ]
+      },
+      "organisations": [
+        {
+          "id": 1,
+          "type": 0,
+          "title": "ООО «Газпром проектирование»",
+          "director": "Гайворонский А.В",
+          "address": "Адрес",
+          "phone": "+79999999999",
+          "email": "mail@example.com",
+          "email2": "mail@example.com",
+          "statusContracts": 0,
+          "statusKsg": 0,
+          "statusVolume": 0
+        },
+        {
+          "id": 2,
+          "type": 0,
+          "title": "ООО «Газпром проектирование»",
+          "director": "Гайворонский А.В",
+          "address": "Адрес",
+          "phone": "+79999999999",
+          "email": "mail@example.com",
+          "email2": "mail@example.com",
+          "statusContract": 0,
+          "statusKsg": 0,
+          "statusVolume": 0
+        },
+        {
+          "id": 3,
+          "type": 0,
+          "title": "ООО «Газпром проектирование»",
+          "director": "Гайворонский А.В",
+          "address": "Адрес",
+          "phone": "+79999999999",
+          "email": "mail@example.com",
+          "email2": "mail@example.com",
+          "statusContract": 0,
+          "statusKsg": 0,
+          "statusVolume": 0
+        },
+        {
+          "id": 4,
+          "type": 0,
+          "title": "ООО «Газпром проектирование»",
+          "director": "Гайворонский А.В",
+          "address": "Адрес",
+          "phone": "+79999999999",
+          "email": "mail@example.com",
+          "email2": "mail@example.com",
+          "statusContract": 0,
+          "statusKsg": 0,
+          "statusVolume": 0
+        },
+        {
+          "id": 5,
+          "type": 0,
+          "title": "ООО «Газпром проектирование»",
+          "director": "Гайворонский А.В",
+          "address": "Адрес",
+          "phone": "+79999999999",
+          "email": "mail@example.com",
+          "email2": "mail@example.com",
+          "statusContract": 0,
+          "statusKsg": 0,
+          "statusVolume": 0
+        }
+      ]
+    }
+  ],
+  "budget": [
+    {
+      "id": 1,
+      "status": 1,
+      "reportDate": "2023-03-09",
+      "entries": [
+        {
+          "id": 1,
+          "status": 0,
+          "title": "Оборудование площадки",
+          "tag": 0,
+          "date": "2023-03-01",
+          "lkvPlan1": 29.31,
+          "lkvPlan2": 36.42,
+          "lkvPlan3": 45.31,
+          "lkvActual": 587.7,
+          "primaryPlan": 0,
+          "lkvActualForecast": 587.7,
+          "costItem": 0,
+          "creditDebt": 29.31,
+          "debitDebt": 29.31,
+          "repayment": 29.31,
+          "financingSum": 29.31,
+          "currentYearProgram": 29.31,
+          "futureYearsProgram": 29.31,
+          "financingPlan": 29.31,
+          "financingActual": 29.31,
+          "oksGeneralContract": 29.31,
+          "oksDevelopment": 29.31,
+          "oksYear": "2023-03-01"
+        },
+        {
+          "id": 2,
+          "status": 0,
+          "title": "Оборудование площадки",
+          "tag": 0,
+          "date": "2023-03-01",
+          "lkvPlan1": 29.31,
+          "lkvPlan2": 36.42,
+          "lkvPlan3": 45.31,
+          "lkvActual": 587.7,
+          "primaryPlan": 0,
+          "lkvActualForecast": 587.7,
+          "costItem": 0,
+          "creditDebt": 29.31,
+          "debitDebt": 29.31,
+          "repayment": 29.31,
+          "financingSum": 29.31,
+          "currentYearProgram": 29.31,
+          "futureYearsProgram": 29.31,
+          "financingPlan": 29.31,
+          "financingActual": 29.31,
+          "oksGeneralContract": 29.31,
+          "oksDevelopment": 29.31,
+          "oksYear": "2023-03-01"
+        },
+        {
+          "id": 3,
+          "status": 0,
+          "title": "Оборудование площадки",
+          "tag": 0,
+          "date": "2023-03-01",
+          "lkvPlan1": 29.31,
+          "lkvPlan2": 36.42,
+          "lkvPlan3": 45.31,
+          "lkvActual": 587.7,
+          "primaryPlan": 0,
+          "lkvActualForecast": 587.7,
+          "costItem": 0,
+          "creditDebt": 29.31,
+          "debitDebt": 29.31,
+          "repayment": 29.31,
+          "financingSum": 29.31,
+          "currentYearProgram": 29.31,
+          "futureYearsProgram": 29.31,
+          "financingPlan": 29.31,
+          "financingActual": 29.31,
+          "oksGeneralContract": 29.31,
+          "oksDevelopment": 29.31,
+          "oksYear": "2023-03-01"
+        },
+        {
+          "id": 4,
+          "status": 0,
+          "title": "Оборудование площадки",
+          "tag": 0,
+          "date": "2023-03-01",
+          "lkvPlan1": 29.31,
+          "lkvPlan2": 36.42,
+          "lkvPlan3": 45.31,
+          "lkvActual": 587.7,
+          "primaryPlan": 0,
+          "lkvActualForecast": 587.7,
+          "costItem": 0,
+          "creditDebt": 29.31,
+          "debitDebt": 29.31,
+          "repayment": 29.31,
+          "financingSum": 29.31,
+          "currentYearProgram": 29.31,
+          "futureYearsProgram": 29.31,
+          "financingPlan": 29.31,
+          "financingActual": 29.31,
+          "oksGeneralContract": 29.31,
+          "oksDevelopment": 29.31,
+          "oksYear": "2023-03-01"
+        },
+        {
+          "id": 5,
+          "status": 0,
+          "title": "Оборудование площадки",
+          "tag": 0,
+          "date": "2023-03-01",
+          "lkvPlan1": 29.31,
+          "lkvPlan2": 36.42,
+          "lkvPlan3": 45.31,
+          "lkvActual": 587.7,
+          "primaryPlan": 0,
+          "lkvActualForecast": 587.7,
+          "costItem": 0,
+          "creditDebt": 29.31,
+          "debitDebt": 29.31,
+          "repayment": 29.31,
+          "financingSum": 29.31,
+          "currentYearProgram": 29.31,
+          "futureYearsProgram": 29.31,
+          "financingPlan": 29.31,
+          "financingActual": 29.31,
+          "oksGeneralContract": 29.31,
+          "oksDevelopment": 29.31,
+          "oksYear": 2023
+        }
+      ]
+    }
+  ],
+  "designing": [
+    {
+      "id": 1,
+      "status": 1,
+      "projectStart": "2018-12-27",
+      "projectEnd": "2026-12-25",
+      "designAssignment": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01"
+      },
+      "technicalSolutions": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01"
+      },
+      "territoryLayoutDocs": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01"
+      },
+      "projectDocs": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01"
+      },
+      "workDocs": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01"
+      },
+      "projectDocsApproval": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01"
+      },
+      "additionToWork": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01"
+      },
+      "departmentalExpertise": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01",
+        "status": 0
+      },
+      "stateEnvironmentalExpertise": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01",
+        "status": 0
+      },
+      "mainStateExpertise": {
+        "plannedDate": "2023-03-01",
+        "actualDate": "2023-03-01",
+        "state": 0
+      },
+      "landManagement": {
+        "plannedDone": 45,
+        "actualDone": 45,
+        "state": 0
+      },
+      "facilityEquipment": {
+        "plannedDone": 45,
+        "actualDone": 45,
+        "state": 0
+      },
+      "customerDelivery": {
+        "plannedDone": 45,
+        "actualDone": 45,
+        "state": 0
+      },
+      "construction": {
+        "plannedDone": 45,
+        "actualDone": 45,
+        "state": 0
+      },
+      "contractorDelivery": {
+        "plannedDone": 45,
+        "actualDone": 45,
+        "state": 0
+      }
+    }
+  ],
+  "milestones": [
+    {
+      "id": 1,
+      "reportDate": "2023-02-01",
+      "status": 0,
+      "entries": [
+        {
+          "id": 1,
+          "identifier": "MS8",
+          "type": 0,
+          "title": "Оформление прав на земельные участки на этапе ПИР завершено ",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01"
+        },
+        {
+          "id": 2,
+          "identifier": "MS8",
+          "type": 0,
+          "title": "Оформление прав на земельные участки на этапе ПИР завершено ",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01"
+        },
+        {
+          "id": 3,
+          "identifier": "MS8",
+          "type": 0,
+          "title": "Оформление прав на земельные участки на этапе ПИР завершено ",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01"
+        },
+        {
+          "id": 4,
+          "identifier": "MS8",
+          "type": 0,
+          "title": "Оформление прав на земельные участки на этапе ПИР завершено ",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01"
+        },
+        {
+          "id": 5,
+          "identifier": "MS8",
+          "type": 0,
+          "title": "Оформление прав на земельные участки на этапе ПИР завершено ",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01"
+        }
+      ]
+    }
+  ],
+  "ps-pir": [
+    {
+      "id": 1,
+      "reportDate": "2023-02-01",
+      "status": 0,
+      "pd": {
+        "planned": 45,
+        "actual": 45,
+        "approved": 45
+      },
+      "landWorks": {
+        "amountTotal": 45,
+        "amountDate": 45,
+        "readyDate": 45,
+        "issuedDate": 45
+      },
+      "rd": {
+        "planned": 45,
+        "actual": 45,
+        "amountDate": 45,
+        "amountTotal": 45,
+        "developed": 45,
+        "inProgress": 45,
+        "changesDatePlanned": 45,
+        "changesDateActual": 45,
+        "changesIntoWork": 45,
+        "mtrEntries": 45,
+        "mtrEntriesChanges": 45,
+        "completedSets": 45,
+        "completedChanges": 45,
+        "accountedSets": 45,
+        "accountedChanges": 45
+      }
+    }
+  ],
+  "pnr": [
+    {
+      "id": 1,
+      "reportDate": "2023-02-01",
+      "status": 0,
+      "pnrIdle": {
+        "status": 0,
+        "plannedDate": "2023-02-01",
+        "actualDate": "2023-02-01"
+      },
+      "pnrLoad": {
+        "status": 0,
+        "plannedDate": "2023-02-01",
+        "actualDate": "2023-02-01"
+      },
+      "gasSupply": {
+        "status": 0,
+        "plannedDate": "2023-02-01",
+        "actualDate": "2023-02-01"
+      },
+      "technologicalEnvironment": {
+        "status": 0,
+        "plannedDate": "2023-02-01",
+        "actualDate": "2023-02-01"
+      },
+      "coldStart": {
+        "status": 0,
+        "plannedDate": "2023-02-01",
+        "actualDate": "2023-02-01"
+      },
+      "hotStart": {
+        "status": 0,
+        "plannedDate": "2023-02-01",
+        "actualDate": "2023-02-01"
+      },
+      "systems": {
+        "smrFinished": 45,
+        "individualTests": 45,
+        "complexTesting": 45,
+        "pnrPresented": {
+          "planned": 45,
+          "actual": 45
+        },
+        "pnrAccepted": {
+          "planned": 45,
+          "actual": 45
+        },
+        "pnrOngoing": {
+          "planned": 45,
+          "actual": 45
+        },
+        "pnrFinished": {
+          "planned": 45,
+          "actual": 45
+        }
+      },
+      "acts": {
+        "individualTests": {
+          "planned": 45,
+          "actual": 45
+        },
+        "complexTesting": {
+          "planned": 45,
+          "actual": 45
+        }
+      },
+      "keySystems": {
+        "general": 45,
+        "pnrAccepted": 45,
+        "completedTests": 45,
+        "signedComplexTests": 45,
+        "signedIndividualTests": 45
+      }
+    }
+  ],
+  "pnr-defects": [
+    {
+      "id": 1,
+      "reportDate": "2023-02-01",
+      "status": 0,
+      "entries": [
+        {
+          "id": 1,
+          "orderDate": "2023-02-01",
+          "orderNumber": "",
+          "defectType": 0,
+          "fixPlanned": "2023-02-01",
+          "fixActual": "2023-02-01",
+          "defectDescription": "",
+          "annotations": ""
+        },
+        {
+          "id": 2,
+          "orderDate": "2023-02-01",
+          "orderNumber": "",
+          "defectType": 0,
+          "fixPlanned": "2023-02-01",
+          "fixActual": "2023-02-01",
+          "defectDescription": "",
+          "annotations": ""
+        },
+        {
+          "id": 3,
+          "orderDate": "2023-02-01",
+          "orderNumber": "",
+          "defectType": 0,
+          "fixPlanned": "2023-02-01",
+          "fixActual": "2023-02-01",
+          "defectDescription": "",
+          "annotations": ""
+        },
+        {
+          "id": 4,
+          "orderDate": "2023-02-01",
+          "orderNumber": "",
+          "defectType": 0,
+          "fixPlanned": "2023-02-01",
+          "fixActual": "2023-02-01",
+          "defectDescription": "",
+          "annotations": ""
+        },
+        {
+          "id": 5,
+          "orderDate": "2023-02-01",
+          "orderNumber": "",
+          "defectType": 0,
+          "fixPlanned": "2023-02-01",
+          "fixActual": "2023-02-01",
+          "defectDescription": "",
+          "annotations": ""
+        }
+      ]
+    }
+  ],
+  "supervision": [
+    {
+      "id": 1,
+      "reportDate": "2023-02-01",
+      "status": 0,
+      "entries": [
+        {
+          "id": 1,
+          "status": 0,
+          "organisation": "ООО «Газпром проектирование»",
+          "controlArea": "",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01",
+          "supervisorName": "Вагарин В.А",
+          "supervisorStatus": 0,
+          "type": 0,
+          "documentNumber": "I2002573",
+          "supervisionDate": "2023-02-01",
+          "description": "I2002573",
+          "annotations": "I2002573"
+        },
+        {
+          "id": 2,
+          "status": 0,
+          "organisation": "ООО «Газпром проектирование»",
+          "controlArea": "",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01",
+          "supervisorName": "Вагарин В.А",
+          "supervisorStatus": 0,
+          "type": 0,
+          "documentNumber": "I2002573",
+          "supervisionDate": "2023-02-01",
+          "description": "I2002573",
+          "annotations": "I2002573"
+        },
+        {
+          "id": 3,
+          "status": 0,
+          "organisation": "ООО «Газпром проектирование»",
+          "controlArea": "",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01",
+          "supervisorName": "Вагарин В.А",
+          "supervisorStatus": 0,
+          "type": 0,
+          "documentNumber": "I2002573",
+          "supervisionDate": "2023-02-01",
+          "description": "I2002573",
+          "annotations": "I2002573"
+        },
+        {
+          "id": 4,
+          "status": 0,
+          "organisation": "ООО «Газпром проектирование»",
+          "controlArea": "",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01",
+          "supervisorName": "Вагарин В.А",
+          "supervisorStatus": 0,
+          "type": 0,
+          "documentNumber": "I2002573",
+          "supervisionDate": "2023-02-01",
+          "description": "I2002573",
+          "annotations": "I2002573"
+        },
+        {
+          "id": 5,
+          "status": 0,
+          "organisation": "ООО «Газпром проектирование»",
+          "controlArea": "",
+          "plannedDate": "2023-03-01",
+          "actualDate": "2023-03-01",
+          "supervisorName": "Вагарин В.А",
+          "supervisorStatus": 0,
+          "type": 0,
+          "documentNumber": "I2002573",
+          "supervisionDate": "2023-02-01",
+          "description": "I2002573",
+          "annotations": "I2002573"
+        }
+      ]
+    }
+  ]
+}
