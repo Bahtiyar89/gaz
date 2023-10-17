@@ -213,6 +213,9 @@ const pointSource: FeatureCollection = {
 };
 
 export default function MapContainer() {
+  const MAPBOX_TOKEN =
+    "pk.eyJ1IjoiYmFoYTg5IiwiYSI6ImNsbWV4ZGwyODBzanQza256dTFiaGk0NGwifQ.QOzjggSFapsjoXbDcqmmiQ"; // Set your mapbox token here
+
   const [popupInfo, setPopupInfo] = useState<null | {
     lat: number;
     lng: number;
@@ -314,7 +317,8 @@ export default function MapContainer() {
           e.originalEvent.stopPropagation();
           setPopupInfo({ lat: e.lngLat.lat, lng: e.lngLat.lng });
         }}
-        //  mapLib={maplibregl}
+        mapboxAccessToken={MAPBOX_TOKEN}
+        mapLib={import("mapbox-gl")}
         interactiveLayerIds={["lines", "points"]}
         initialViewState={{
           longitude: 60.1456,
